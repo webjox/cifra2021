@@ -1,0 +1,13 @@
+[
+    {
+        "latitude": 47.222078,
+        "longitude": 39.720349,
+        "id": 1,
+        "active": false,
+        "name": "Ростов-на-Дону",
+        "opacity": 0,
+        "vacancies": 11,
+        "summary": 4,
+        "color": "yellow"
+    }
+]

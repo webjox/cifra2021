@@ -1,0 +1,33 @@
+.marker {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 50%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.popUp {
+    width: 200px;
+    position: absolute;
+    bottom: 60px;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.8);
+    transition: 0.3s;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    z-index: 10;
+}
+
+.popUp span {
+    color: white;
+    align-self: center;
+}
+
+.select {
+    right: 5%;
+    bottom: 5%;
+    position: absolute;
+}

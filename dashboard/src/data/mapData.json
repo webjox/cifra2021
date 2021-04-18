@@ -1,0 +1,57 @@
+[
+    {
+        "latitude": 47.222078,
+        "longitude": 39.720349,
+        "id": 1,
+        "active": false,
+        "name": "Ростовская область",
+        "opacity": 0,
+        "vacancies": 102,
+        "summary": 50,
+        "color": "yellow"
+    },
+    {
+        "latitude": 45.389254,
+        "longitude": 33.993905,
+        "id": 2,
+        "active": false,
+        "name": "Крым",
+        "opacity": 0,
+        "vacancies": 23,
+        "summary": 31,
+        "color": "yellow"
+    },
+    {
+        "latitude": 46.851412,
+        "longitude": 47.466189,
+        "id": 3,
+        "active": false,
+        "name": "Астраханская область",
+        "opacity": 0,
+        "vacancies": 14,
+        "summary": 51,
+        "color": "red"
+    },
+    {
+        "latitude": 58.603581,
+        "longitude": 49.667978,
+        "id": 4,
+        "active": false,
+        "name": "Кировская область",
+        "opacity": 0,
+        "vacancies": 51,
+        "summary": 38,
+        "color": "yellow"
+    },
+    {
+        "latitude": 51.533103,
+        "longitude": 46.034158,
+        "id": 5,
+        "active": false,
+        "name": "Саратовская область",
+        "opacity": 0,
+        "vacancies": 14,
+        "summary": 32,
+        "color": "red"
+    }
+]
